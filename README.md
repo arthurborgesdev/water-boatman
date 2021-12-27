@@ -23,3 +23,12 @@ Thanks to Helmholtz effect, it is possible.
 By variating the electric signal, its possible
 to change the output audio frequency's, creating
 music 🎵.
+
+## Power source
+
+The power soucer will be a 3V CR2032 or small lithium
+battery. The Attiny will be underclocked to run with
+voltages less than 5V consuming small amounts of power.
+Probably, there will be a need to a voltage converter/
+stabilizer.
+
