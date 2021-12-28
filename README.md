@@ -32,3 +32,6 @@ voltages less than 5V consuming small amounts of power.
 Probably, there will be a need to a voltage converter/
 stabilizer.
 
+### Putting Attiny85 in low-power mode
+
+[Hardware and Software mods](https://wiki.liutyi.info/display/ARDUINO/Low+power+projects+digispark+ATtiny85+modification)
