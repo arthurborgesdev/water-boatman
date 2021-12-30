@@ -32,6 +32,14 @@ voltages less than 5V consuming small amounts of power.
 Probably, there will be a need to a voltage converter/
 stabilizer.
 
+The consumption will be about ~1.5mWh @ 5V,
+according to the datasheet (0.30mA @ 6V).
+Using the 235mAh capacity from CR2032 Energizer
+datasheet, we can estimate >700 hours of
+buzzer operation. Or ~ 3.5 years using 30 minutes
+a day, which is more than enough for the first
+iteration of the project.
+
 ### Putting Attiny85 in low-power mode
 
 [Hardware and Software mods](https://wiki.liutyi.info/display/ARDUINO/Low+power+projects+digispark+ATtiny85+modification)
