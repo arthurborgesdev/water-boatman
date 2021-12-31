@@ -43,3 +43,7 @@ iteration of the project.
 ### Putting Attiny85 in low-power mode
 
 [Hardware and Software mods](https://wiki.liutyi.info/display/ARDUINO/Low+power+projects+digispark+ATtiny85+modification)
+
+## Inspirations
+
+[Attiny Synthesizer](https://forum.arduino.cc/t/attiny-synthesizer/439962)
