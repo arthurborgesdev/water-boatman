@@ -47,3 +47,12 @@ iteration of the project.
 ## Inspirations
 
 [Attiny Synthesizer](https://forum.arduino.cc/t/attiny-synthesizer/439962)
+
+## Inputs
+
+The Attiny85 has 6 pins to be used for its
+features. One of them will be used for audio
+output, leaving other five for inputs (without
+multiplexers). At the beginning, two pots and two
+buttons can be using, with the fifth pin used for
+a future display/Led strip implementation.
