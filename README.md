@@ -44,6 +44,14 @@ iteration of the project.
 
 [Hardware and Software mods](https://wiki.liutyi.info/display/ARDUINO/Low+power+projects+digispark+ATtiny85+modification)
 
+### AA Batteries
+
+Using AA Batteries will provide more timespan,
+security (hard to swallow, invert poles), and it
+is cheaper/easier to find in market. Two AA batteries can be
+used in series to achieve the same 3V of a CR2032 3V Lithium cell.
+
+Example datasheet: [AA Battery datasheet](https://www.google.com/url?sa=t&source=web&rct=j&url=https://docs.rs-online.com/2a27/0900766b814ef4c0.pdf&ved=2ahUKEwj6ueWO3JP1AhXEq5UCHQb-AlQQFnoECBQQAQ&usg=AOvVaw273tPdYb386cwjVQZ5NmFo)
 ## Inspirations
 
 [Attiny Synthesizer](https://forum.arduino.cc/t/attiny-synthesizer/439962)
