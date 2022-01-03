@@ -62,5 +62,9 @@ The Attiny85 has 6 pins to be used for its
 features. One of them will be used for audio
 output, leaving other five for inputs (without
 multiplexers). At the beginning, two pots and two
-buttons can be using, with the fifth pin used for
+buttons can be used, with the fifth pin used for
 a future display/Led strip implementation.
+
+The two buttons can control the modes (to be
+defined) and the Pots can control the PWM of
+two different square waves.
